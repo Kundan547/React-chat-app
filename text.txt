@@ -1,0 +1,13 @@
+sudo apt-get update && sudo apt upgrade -y
+#after updated the system 
+
+
+#Install the react
+npm install 
+
+#after the installation check the version.
+npm -V
+
+#Now install docker and docker-compose file.
+sudo apt-get install docker.io docker-compose.
+
